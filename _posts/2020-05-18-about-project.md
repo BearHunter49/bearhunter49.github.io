@@ -19,6 +19,8 @@ redirect_from:
 
 ## 팀원
 
+* Table 2
+
     |---
     | Name | Git | Role
     |-|-|-
