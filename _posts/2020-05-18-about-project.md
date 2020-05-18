@@ -39,20 +39,23 @@ redirect_from:
   팀원들의 선호 언어를 조사
   <br>
   <br>
-  <a class="post-image">
-  <img itemprop="image" src="/assets/images/screenshots/process2.png" alt="Kramdown Overview" />
+  <img src="/assets/images/screenshots/process2.png" />
   <br>
   각자 흥미로운 오픈소스 프로젝트를 어필, 투표로 인하여 선정
   
 ### 커뮤니티 활동
 
-  <a class="post-image">
-  <img itemprop="image" src="/assets/images/screenshots/project1.png" alt="Kramdown Overview" />
+  <img src="/assets/images/screenshots/project1.png" />
   <br>
-  <a class="post-image">
-  <img itemprop="image" src="/assets/images/screenshots/issue1.png" alt="Kramdown Overview" />
-  <br>
+  Github의 Project 기능을 활용하여 계획 수립 및 
 
+  <img src="/assets/images/screenshots/issue1.png" />
+  <br>
+  Github의 Issue 기능을 활용하여 팀원간에 소통
+  
+  <img src="/assets/images/screenshots/act3.png" />
+  <br>
+  카카오톡 채팅방을 통한 소통
 
 ## 종류
 
@@ -70,119 +73,42 @@ redirect_from:
 * https://github.com/TheAlgorithms/Python
 <br>
 
-## 개인별 기여 방안
+## 기여 방안
+
+* 팀장으로써 팀원들이 주마다 나오는 개인 과제 or 팀 과제를 놓치지 않도록 공지
+
+* Github 사용 경험이 있는 고학번 팀장으로써 버전관리 툴의 사용이 어색한 팀원들을 이끌어줌
+
+  <img src="/assets/images/screenshots/act1.png" />
+  <br>
+  <img src="/assets/images/screenshots/act21.png" />
+  <br>
+
+## 프로젝트 개선 사항
+
+* visuaudio
+1. 프로젝트를 사용자로써 체험한다.
+2. 프로젝트의 전체적인 내용과 방향성에 대해 살펴본다.
+3. 프로젝트 내에서 사용하는 주요 라이브러리인 pyaudio와 pyqtgraph의 사용법을 숙지한다.
+4. 프로젝트 기여
+- 해당 프로젝트가 window, linux에서 동작하는지 확인 및 README.md를 수정한다.
+- 클래스의 각 attribute나 method에 설명이 부족하다. 주석과 docstring을 이용하여 구체적인 예시와 함께 설명을 추가한다.
+- 음성 파일을 읽을 때 format을 사용자가 지정할 수가 없다. 따라서 지정할 수 있도록 수정한다.
+- 시각화 방식이 한 가지밖에 존재하지 않는다. 따라서 pyqtgraph 라이브러리 숙지 후 다양한 방식의 시각화(색 변경, 차트 종류) 방식을 추가한다.
+
+
+* Python
+1. 프로젝트를 사용자로써 체험한다.
+2. 프로젝트의 전체적인 내용과 방향성에 대해 살펴본다.
+3. 프로젝트 규모가 작지 않으므로 사소한 기여사항을 찾는다.
+- Grammar mistake을 찾아 수정
+- 실행을 통한 bug issue 찾기(가능하다면 해결)
+- Document의 한글화
 
 
 
-## 개선 사항
-
-This is a normal paragraph.
-
-This is [a link](https://yizeng.me) to my homepage.
-A [link](https://yizeng.me/blog "Yi Zeng's Blog") can also have a title.
-
-This is a ***text with light and strong emphasis***.
-
-This **is _emphasized_ as well**.
-
-This *does _not_ work*.
-
-This **does __not__ work either**.
-
-This is a footnote[^1].
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-This tag should denote <ins>inserted</ins> text.
-
-The emphasize tag should _italicize_ text.
-
-This tag will let you <strike>strikeout text</strike>.
-
-## Blockquotes
-
-> ruby -v
->
-> tsc -v
-
-### Nested
-
-> This is a paragraph in blockquote.
->
-> > A nested blockquote.
->
-
-### Lists inside
-
-> Unordered List
-> * lists one
-> * lists two
-> * lists three
->
-> Ordered List
-> 1. lists one
-> 2. lists two
-> 3. lists three
-
-### Long lines
-
-> Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Jekyll takes your content, renders Markdown and Liquid templates, and spits out a complete, static website ready to be served by Apache, Nginx or another web server. Jekyll is the engine behind GitHub Pages, which you can use to host sites right from your GitHub repositories.
-
-## Lists
-
-* list 1 item 1
-  * nested list item 1
-  * nested list item 2
-  * nested list item 3 with blockquote
-> ruby -v
->
-> tsc -v
-* list 1 item 2
-* list 1 item 3
-
-## Tables
 
 
-* Table 1
 
-    |-----------------+------------+-----------------+----------------|
-    | Default aligned |Left aligned| Center aligned  | Right aligned  |
-    |-----------------|:-----------|:---------------:|---------------:|
-    | First body part |Second cell | Third cell      | fourth cell    |
-    | Second line     |foo         | **strong**      | baz            |
-    | Third line      |quux        | baz             | bar            |
-    | Footer row      |            |                 |                |
-    |-----------------+------------+-----------------+----------------|
 
-* Table 2
 
-    |---
-    | Default aligned | Left aligned | Center aligned | Right aligned
-    |-|:-|:-:|-:
-    | First body part | Second cell | Third cell | fourth cell
-    | Second line |foo | **strong** | baz
-    | Third line |quux | baz | bar
-    | Footer row
-
-## Horizontal Rules
-
-* * *
-
----
-
-  _  _  _  _
-
----------------
-
-## Images
-
-Here comes an image!
-
-<a class="post-image" href="https://kramdown.gettalong.org/overview.png">
-<img itemprop="image" data-src="https://kramdown.gettalong.org/overview.png" src="/assets/javascripts/unveil/loader.gif" alt="Kramdown Overview" />
-</a>
-
-[^1]: This is a footnote.
-
-[kramdown]: https://kramdown.gettalong.org/
-[Simple Texture]: https://github.com/yizeng/jekyll-theme-simple-texture
