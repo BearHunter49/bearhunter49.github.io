@@ -19,11 +19,11 @@ redirect_from:
 
 ## 팀원
 
-* Table 2
+* 
 
     | Name | Git | Role
     |-|-|-
-    | 서주원 | BearHunter49 | 팀장
+    | 서주원 | bearhunter49 | 팀장
     | 주원규 | jwk6553 | 팀원
     | 장병우 | cPy-seeBuy | 팀원
     | 이지영 | ljy719 | 팀원
@@ -35,7 +35,7 @@ redirect_from:
 ### 선정 과정
 
   <a class="post-image">
-  <img itemprop="image" src="/assets/images/screenshots/process1.png" alt="Kramdown Overview" />
+  <img itemprop="image" src="/assets/images/screenshots/process1.png" />
   <br>
   팀원들의 선호 언어를 조사
   <br>
