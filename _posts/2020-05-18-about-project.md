@@ -21,7 +21,6 @@ redirect_from:
 
 * Table 2
 
-    |---
     | Name | Git | Role
     |-|-|-
     | 서주원 | BearHunter49 | 팀장
@@ -31,17 +30,51 @@ redirect_from:
     | 김광원 | one0955 | 팀원
 
 
-## 프로젝트 선정 과정
+## 진행 사항
+
+### 선정 과정
+
+  <a class="post-image">
+  <img itemprop="image" src="/assets/images/screenshots/process1.png" alt="Kramdown Overview" />
+  <br>
+  팀원들의 선호 언어를 조사
+  <br>
+  <br>
+  <a class="post-image">
+  <img itemprop="image" src="/assets/images/screenshots/process2.png" alt="Kramdown Overview" />
+  <br>
+  각자 흥미로운 오픈소스 프로젝트를 어필, 투표로 인하여 선정
+  
+### 커뮤니티 활동
+
+  <a class="post-image">
+  <img itemprop="image" src="/assets/images/screenshots/project1.png" alt="Kramdown Overview" />
+  <br>
+  <a class="post-image">
+  <img itemprop="image" src="/assets/images/screenshots/issue1.png" alt="Kramdown Overview" />
+  <br>
 
 
-## 프로젝트 종류
+## 종류
 
 ### visuaudio
+* Python
+* MIT
+* A fun GUI application to visualize audio spectrum
+* https://github.com/irahorecka/visuaudio
+<br>
 
 ### Python
+* Python
+* MIT
+* Implementations for learning purposes
+* https://github.com/TheAlgorithms/Python
+<br>
+
+## 기여 방안
 
 
-
+## 개선 사항
 
 This is a normal paragraph.
 
