@@ -34,8 +34,7 @@ redirect_from:
 
 ### 선정 과정
 
-  <a class="post-image">
-  <img itemprop="image" src="/assets/images/screenshots/process1.png" />
+  <img src="/assets/images/screenshots/process1.png" />
   <br>
   팀원들의 선호 언어를 조사
   <br>
@@ -71,7 +70,8 @@ redirect_from:
 * https://github.com/TheAlgorithms/Python
 <br>
 
-## 기여 방안
+## 개인별 기여 방안
+
 
 
 ## 개선 사항
