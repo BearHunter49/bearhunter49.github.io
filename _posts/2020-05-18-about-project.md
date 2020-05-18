@@ -81,7 +81,7 @@ redirect_from:
 
   <img src="/assets/images/screenshots/act1.png" />
   <br>
-  <img src="/assets/images/screenshots/act21.png" />
+  <img src="/assets/images/screenshots/act2.png" />
   <br>
 
 ## 프로젝트 개선 사항
