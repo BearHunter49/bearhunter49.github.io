@@ -1,3 +1,12 @@
+---
+layout: post
+title: "texture-format"
+description: "guideline"
+categories: [uncategorized]
+tags: [random, jekyll]
+redirect_from:
+  - /2020/05/11/
+---
 
 This is a normal paragraph.
 
