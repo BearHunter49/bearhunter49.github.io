@@ -66,11 +66,11 @@ redirect_from:
 * https://github.com/irahorecka/visuaudio
 <br>
 
-### Python
+~~### Python
 * Python
-* MIT
+~~* MIT
 * Implementations for learning purposes
-* https://github.com/TheAlgorithms/Python
+~~* https://github.com/TheAlgorithms/Python
 <br>
 
 ## 기여 방안
@@ -97,13 +97,13 @@ redirect_from:
     - 시각화 방식이 한 가지밖에 존재하지 않는다. 따라서 pyqtgraph 라이브러리 숙지 후 다양한 방식의 시각화(색 변경, 차트 종류) 방식을 추가한다.
 
 
-* Python
+~~* Python
   - 프로젝트를 사용자로써 체험한다.
-  - 프로젝트의 전체적인 내용과 방향성에 대해 살펴본다.
+  ~~- 프로젝트의 전체적인 내용과 방향성에 대해 살펴본다.
   - 프로젝트 규모가 작지 않으므로 사소한 기여사항을 찾는다.
-    - Grammar mistake을 찾아 수정
-    - 실행을 통한 bug issue 찾기(가능하다면 해결)
-    - Document의 한글화
+    ~~- Grammar mistake을 찾아 수정
+    ~~- 실행을 통한 bug issue 찾기(가능하다면 해결)
+    ~~- Document의 한글화
 
 
 
